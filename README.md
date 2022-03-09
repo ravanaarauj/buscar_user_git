@@ -1,4 +1,4 @@
-# buscar_user_git
+# Buscar GIT
 
 ## Project setup
 ```
